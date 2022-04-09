@@ -1,5 +1,9 @@
-### Hi there 👋
-
+<h1 align="center">Olá, mundo!</h1>
+<p align="center">Quem sou e o que faço, são varivaveis que tento definir enquanto vivo.<p>
+  <div style="display:flex; justify-content: center;">
+    <img height="180em" align="center" width="51%" src="https://github-readme-stats.vercel.app/api?username=Wesley-Fernandes&count_private=trueshow_icons=true&theme=merko">
+<img height="180em" align="center" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=merko">
+   </div>
 <!--
 **Wesley-Fernandes/Wesley-Fernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
