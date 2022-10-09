@@ -17,7 +17,7 @@
         - Desafio rocketseat 21 das de codigo.
   </div>
 </pre>
-![<a href="https://www.linkedin.com/in/wesley-israel-fernandes/">LinkedIn<a>](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![<a href="https://api.whatsapp.com/send?phone=5398128-3952">WhatsApp<a>](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+<a href="https://www.linkedin.com/in/wesley-israel-fernandes/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)<a> <a href="https://api.whatsapp.com/send?phone=5398128-3952">![<a href="https://api.whatsapp.com/send?phone=5398128-3952">WhatsApp<a>](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)<a>
 <hr>
 <div display="flex">
 <img title="Html 5" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
