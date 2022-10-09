@@ -1,40 +1,21 @@
-<h1 align="center">Olá, mundo!</h1>
-<p align="center">Quem sou e o que faço, são varivaveis que tento definir enquanto vivo.<p>
-  <div align="center">
-    <img height="180em" align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=Wesley-Fernandes&count_private=trueshow_icons=true&theme=merko">
-<img height="180em" align="center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Wesley-Fernandes&layout=compact&theme=merko">
-   </div>
-     <br>
-   <div style="display: inline_block;" align="center">
-    <h2>Minhas linguagens</h2>
-  <pre>
-  Estas são minhas linguagens de Progamação/Marcação/Estilização
-  preferidas ou as quais tenho ou estou ganhando aptidão.
-  </pre>
-    <a><img width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a> 
-    <a><img width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a> 
-    <a><img width="40em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a> 
-   </div>
-  <br>
-  <div style="display: inline_block;" align="center">
-  <h2>Minhas redes sociais</h2>
-    <a><img height="25em" width="110em" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-    <a><img height="25em" width="110em" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-    <a><img height="25em" width="110em" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-    <a><img height="25em" width="110em" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
-    <a><img height="25em" width="110em" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
-  </div>
-<!--
-**Wesley-Fernandes/Wesley-Fernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://user-images.githubusercontent.com/89518536/194762971-a7850b66-9493-4265-a5b7-c10a4b204507.png">
 
-Here are some ideas to get you started:
+<pre align="center">
+<br>
+Eu nome é Wesley Fernandes, tenho aproximadamente 20 anos, sou gáucho e moro em pelotas;
+Adoro rock (metalcore), animes e jogos, inclusive já criei alguns em engines como GameMaker
+e Rpg maker; Costumo estudar de 6 até 12 horas por dia progamação, sendo aluno plus da <a href="https://www.rocketseat.com.br/">Rocketseat<a>,
+tendo já cursado <a href="https://www.cursoemvideo.com/">Curso em video<a>, <a href="https://www.alura.com.br/">Alura<a>, <a href="https://www.dio.me/">Digital Innovation One<a> e <a href="https://learn.microsoft.com/pt-br/">Microsoft Academia<a>.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<hr>
+<div align="left">
+  ➪ Trabalho atualmente na <a href="https://www.linkedin.com/company/myvillage-brasil/mycompany/">My Village - Intelligence<a>.
+  ➪ Trabalho das 06h até ás 18h.
+  ➪ Atualmente trabalhando em alguns projetos pessoais:
+      - Website de portifolio.
+      - Desafio rocketseat 21 das de codigo.
+
+<div>
+</pre>
+![<a href="https://www.linkedin.com/in/wesley-israel-fernandes/">LinkedIn<a>](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white) ![<a href="https://api.whatsapp.com/send?phone=5398128-3952">WhatsApp<a>](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
