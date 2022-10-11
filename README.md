@@ -1,4 +1,5 @@
-<img src="https://user-images.githubusercontent.com/89518536/194762971-a7850b66-9493-4265-a5b7-c10a4b204507.png">
+
+![Untitled (1)](https://user-images.githubusercontent.com/89518536/195150122-105e3d46-57be-4e2e-bf08-c832557e25eb.png)
 
 <pre align="center">
   <h2 align="center">SOBRE MIM</h2>
