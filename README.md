@@ -11,7 +11,7 @@
   <div align="left">
   <h2 align="center">ATIVIDADES</h2>
     ➪ Trabalho atualmente na <a href="https://www.linkedin.com/company/myvillage-brasil/mycompany/">My Village - Intelligence<a>.
-    ➪ Trabalho das 06h até ás 18h.
+    ➪ Trabalho das 06h até ás 18h um dia sim e outro não (12 por 36).
     ➪ Atualmente trabalhando em alguns projetos pessoais:
         - Website de portifolio.
         - Desafio rocketseat 21 dias de codigo.
