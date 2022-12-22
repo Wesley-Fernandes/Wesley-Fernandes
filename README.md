@@ -13,8 +13,7 @@
     ➪ Trabalho atualmente na <a href="https://www.linkedin.com/company/myvillage-brasil/mycompany/">My Village - Intelligence<a>.
     ➪ Trabalho das 06h até ás 18h um dia sim e outro não (12 por 36).
     ➪ Atualmente trabalhando em alguns projetos pessoais:
-        - Website de portifolio.
-        - Desafio rocketseat 21 dias de codigo.
+        - Chatchê - site de batepapo online.
   </div>
 </pre>
 <a href="https://www.linkedin.com/in/wesley-israel-fernandes/">![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)<a> <a href="https://api.whatsapp.com/send?phone=5398128-3952">![<a href="https://api.whatsapp.com/send?phone=5398128-3952">WhatsApp<a>](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)<a>
